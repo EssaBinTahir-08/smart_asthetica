@@ -1,0 +1,2234 @@
+[
+    {
+        "id": "5ea1697f-3eff-4c52-8e90-4048f2d07f81",
+        "user_id": "user_1",
+        "procedure": "Chin Augmentation",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_5236d53c.jpg",
+        "created_at": "2026-05-05T16:15:42.607134"
+    },
+    {
+        "id": "5550f1e9-833b-4844-b6fb-3881554431c6",
+        "user_id": "user_1",
+        "procedure": "Chin Augmentation",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_c355f782.jpg",
+        "created_at": "2026-05-05T16:15:36.122760"
+    },
+    {
+        "id": "cf67761d-e004-4f7a-a0d1-bf6629043648",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_2a4df975.jpg",
+        "created_at": "2026-05-05T16:15:16.217042"
+    },
+    {
+        "id": "ec8dbed3-069a-4e07-bf96-a534b8b2ed3c",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_42952352.jpg",
+        "created_at": "2026-05-05T16:15:12.146518"
+    },
+    {
+        "id": "57e8c464-7016-4f6b-b37d-7224b9cde1eb",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_65194a24.jpg",
+        "created_at": "2026-05-05T16:15:09.047453"
+    },
+    {
+        "id": "adf7704b-48a2-4047-83dc-d47e67f98d0a",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_4dab5d33.jpg",
+        "created_at": "2026-05-05T16:13:32.022250"
+    },
+    {
+        "id": "e9ddaa68-0a90-4fa4-9e63-db4e654d487d",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_dd8e1825.jpg",
+        "created_at": "2026-05-05T16:13:25.516974"
+    },
+    {
+        "id": "adf98e39-2e8e-486d-82de-c9d7de1a6178",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_83694300.jpg",
+        "created_at": "2026-05-05T16:13:20.727224"
+    },
+    {
+        "id": "a3c9be55-0e17-4610-bb1e-e84355f7bfac",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_770a69cc.jpg",
+        "created_at": "2026-05-05T16:13:12.279318"
+    },
+    {
+        "id": "107ced47-ed1e-44d6-bda9-d5e6699e09e9",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_7213ff78.jpg",
+        "created_at": "2026-05-05T16:13:08.804053"
+    },
+    {
+        "id": "075f67da-8f97-4e39-8a41-0765b627220e",
+        "user_id": "user_1",
+        "procedure": "Thread Lift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_115c95a9.jpg",
+        "created_at": "2026-05-05T16:11:10.380940"
+    },
+    {
+        "id": "80cd8051-da85-4b63-83af-857eedb059de",
+        "user_id": "user_1",
+        "procedure": "Thread Lift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_e86f7cd9.jpg",
+        "created_at": "2026-05-05T16:11:06.873264"
+    },
+    {
+        "id": "35af2add-dce3-40ad-9842-75a340c863da",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_9a580c2e.jpg",
+        "created_at": "2026-05-05T16:10:23.488468"
+    },
+    {
+        "id": "30d0186a-8ec8-4591-8e77-dc6918c76ba5",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_d6bc220c.jpg",
+        "created_at": "2026-05-05T16:10:12.762443"
+    },
+    {
+        "id": "8478b8bc-ce3a-4c6b-acc8-818f8e32d826",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_aa02d71d.jpg",
+        "created_at": "2026-05-05T16:10:06.451850"
+    },
+    {
+        "id": "2f4db49f-7e61-4263-a36d-4e3e8ff65f72",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_1b7c9939.jpg",
+        "created_at": "2026-05-05T16:10:01.040691"
+    },
+    {
+        "id": "3597b0e0-f433-46ad-9e89-69d0eb457c99",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_078e50f1.jpg",
+        "created_at": "2026-05-05T16:09:56.715774"
+    },
+    {
+        "id": "05d763a5-cc05-4fa4-bc01-0482198907c5",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_fefee9e3.jpg",
+        "created_at": "2026-05-05T16:09:53.071549"
+    },
+    {
+        "id": "4a19e894-09d8-4f59-87e6-e4306b81e1a0",
+        "user_id": "user_1",
+        "procedure": "Facelift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_70304fbf.jpg",
+        "created_at": "2026-05-05T16:09:38.278041"
+    },
+    {
+        "id": "854cab83-dd1e-4f64-a9ac-62839c493eb6",
+        "user_id": "user_1",
+        "procedure": "Thread Lift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_eb8dace5.jpg",
+        "created_at": "2026-05-05T16:09:11.903023"
+    },
+    {
+        "id": "1bc4f251-64e1-400b-9a8a-004d9cfb6aa3",
+        "user_id": "user_1",
+        "procedure": "Thread Lift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_b0d8b00f.jpg",
+        "created_at": "2026-05-05T16:08:53.202286"
+    },
+    {
+        "id": "c31bf78f-930b-4bf6-9b6f-ceadbeb7fdeb",
+        "user_id": "user_1",
+        "procedure": "Thread Lift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_f98407ac.jpg",
+        "created_at": "2026-05-05T16:08:46.791282"
+    },
+    {
+        "id": "b1c95860-f7b5-48b7-bf26-950ce7123c95",
+        "user_id": "user_1",
+        "procedure": "Thread Lift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_631b6eb7.jpg",
+        "created_at": "2026-05-05T16:08:35.769571"
+    },
+    {
+        "id": "bb9beccc-d999-4927-bd68-6360c0ba2c94",
+        "user_id": "user_1",
+        "procedure": "Thread Lift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_745ac3b5.jpg",
+        "created_at": "2026-05-05T16:08:30.671313"
+    },
+    {
+        "id": "2fa7d257-528b-4082-9601-9ac0fb5dd3de",
+        "user_id": "user_1",
+        "procedure": "Thread Lift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_3d993f55.jpg",
+        "created_at": "2026-05-05T16:08:27.172374"
+    },
+    {
+        "id": "fb64080d-2c77-4f01-9a05-7509a6d84ec1",
+        "user_id": "user_1",
+        "procedure": "PRP Therapy",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_fe05625d.jpg",
+        "created_at": "2026-05-05T16:07:58.655037"
+    },
+    {
+        "id": "09ba2bb5-6be4-45c9-9ccf-adb828abfbd3",
+        "user_id": "user_1",
+        "procedure": "Thread Lift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_4ccee838.jpg",
+        "created_at": "2026-05-05T16:04:21.605813"
+    },
+    {
+        "id": "339dff77-078b-4813-8561-555b7d80562e",
+        "user_id": "user_1",
+        "procedure": "PRP Therapy",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_8793e1f9.jpg",
+        "created_at": "2026-05-05T16:03:52.256925"
+    },
+    {
+        "id": "534c1bd8-6b04-41a4-b958-09c0181ff808",
+        "user_id": "user_1",
+        "procedure": "Buccal Fat Removal",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_4998c43a.jpg",
+        "created_at": "2026-05-05T16:03:35.501920"
+    },
+    {
+        "id": "8c020353-2380-4c60-89ea-e074f79803f3",
+        "user_id": "user_1",
+        "procedure": "Buccal Fat Removal",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_06624ed3.jpg",
+        "created_at": "2026-05-05T16:03:30.403078"
+    },
+    {
+        "id": "eb1cc073-90c0-45b1-bf96-d601d261377b",
+        "user_id": "user_1",
+        "procedure": "Buccal Fat Removal",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_59ecd2bb.jpg",
+        "created_at": "2026-05-05T16:03:22.606222"
+    },
+    {
+        "id": "497ebfc9-97cf-413f-a0af-612e2fe8bca4",
+        "user_id": "user_1",
+        "procedure": "Brow Lift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_82a4d7fa.jpg",
+        "created_at": "2026-05-05T16:03:08.886026"
+    },
+    {
+        "id": "53255868-c45b-4f2d-92e4-c684c170f60b",
+        "user_id": "user_1",
+        "procedure": "Brow Lift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_8c9736d6.jpg",
+        "created_at": "2026-05-05T16:02:51.990702"
+    },
+    {
+        "id": "7f9e5e1b-662c-4abe-9b94-ec27aebef2fc",
+        "user_id": "user_1",
+        "procedure": "Neck Lift (Structural)",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_a5baa672.jpg",
+        "created_at": "2026-05-05T16:02:08.950036"
+    },
+    {
+        "id": "b45055e9-461c-4fbd-854f-32891f78f047",
+        "user_id": "user_1",
+        "procedure": "Neck Lift (Structural)",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_b108d9e4.jpg",
+        "created_at": "2026-05-05T16:02:06.425758"
+    },
+    {
+        "id": "fa448d63-6562-4e6b-82fa-28f076cdfe72",
+        "user_id": "user_1",
+        "procedure": "Scar Revision Surgery",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_d46af3ba.jpg",
+        "created_at": "2026-05-05T16:01:42.047604"
+    },
+    {
+        "id": "aa7d39d0-8532-4cd0-90a9-dff7ae338d27",
+        "user_id": "user_1",
+        "procedure": "Scar Revision Surgery",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_5cf83ea7.jpg",
+        "created_at": "2026-05-05T16:01:38.708286"
+    },
+    {
+        "id": "287547de-a4d4-4035-ba3c-7c684390f691",
+        "user_id": "user_1",
+        "procedure": "Brow Lift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_a50818a6.jpg",
+        "created_at": "2026-05-05T16:01:16.768307"
+    },
+    {
+        "id": "0514791c-64e1-45c9-be26-e15430c5fd18",
+        "user_id": "user_1",
+        "procedure": "Brow Lift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_58e36c10.jpg",
+        "created_at": "2026-05-05T16:01:09.570468"
+    },
+    {
+        "id": "12042d58-c899-4ab9-973f-e6af6fd8f838",
+        "user_id": "user_1",
+        "procedure": "Brow Lift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_f287e3a6.jpg",
+        "created_at": "2026-05-05T16:01:02.417882"
+    },
+    {
+        "id": "31f4acc9-a500-4e43-ab48-6006911f816f",
+        "user_id": "user_1",
+        "procedure": "Brow Lift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_6ce34666.jpg",
+        "created_at": "2026-05-05T16:00:56.206373"
+    },
+    {
+        "id": "9395ec9a-64ed-4124-bc4d-d441cb367d10",
+        "user_id": "user_1",
+        "procedure": "Lip Augmentation",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_9674170a.jpg",
+        "created_at": "2026-05-05T16:00:38.716705"
+    },
+    {
+        "id": "6e35ee16-fc0c-41be-ab5b-84af56d89282",
+        "user_id": "user_1",
+        "procedure": "Lip Augmentation",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_d304d377.jpg",
+        "created_at": "2026-05-05T16:00:31.447953"
+    },
+    {
+        "id": "48996de6-1d4b-4833-9b72-52c87734fbdb",
+        "user_id": "user_1",
+        "procedure": "Lip Augmentation",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_47466575.jpg",
+        "created_at": "2026-05-05T16:00:28.265141"
+    },
+    {
+        "id": "63393f0a-0272-46ad-872c-6e5da09b13a1",
+        "user_id": "user_1",
+        "procedure": "Facelift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_a7cbe543.jpg",
+        "created_at": "2026-05-05T16:00:13.889923"
+    },
+    {
+        "id": "b371dff4-06a1-4c4b-a3cb-b8f8fbb5240d",
+        "user_id": "user_1",
+        "procedure": "Facelift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_cea628ad.jpg",
+        "created_at": "2026-05-05T16:00:08.069347"
+    },
+    {
+        "id": "11324f33-7a6f-49cd-9827-66887bc9243d",
+        "user_id": "user_1",
+        "procedure": "Facelift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_961f2e4a.jpg",
+        "created_at": "2026-05-05T16:00:04.749240"
+    },
+    {
+        "id": "ce647bed-f154-497f-8654-3da3b56860ad",
+        "user_id": "user_1",
+        "procedure": "Facelift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_a7f8f49e.jpg",
+        "created_at": "2026-05-05T16:00:01.499102"
+    },
+    {
+        "id": "6801a5b3-074e-426b-87b9-d2d51a377a67",
+        "user_id": "user_1",
+        "procedure": "Facelift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_8420d07e.jpg",
+        "created_at": "2026-05-05T15:59:54.707311"
+    },
+    {
+        "id": "4d4583d9-fd02-44ae-9254-4971c1f64721",
+        "user_id": "user_1",
+        "procedure": "Botox",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_608ac70f.jpg",
+        "created_at": "2026-05-05T15:50:53.808452"
+    },
+    {
+        "id": "af7918ee-4d06-4839-bac9-2a6006d013ce",
+        "user_id": "user_1",
+        "procedure": "Brow Lift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_f9309064.jpg",
+        "created_at": "2026-05-05T15:49:39.558541"
+    },
+    {
+        "id": "2a74a519-7a32-4653-bbee-76e3770154e0",
+        "user_id": "user_1",
+        "procedure": "Brow Lift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_416e5bd0.jpg",
+        "created_at": "2026-05-05T15:49:32.563802"
+    },
+    {
+        "id": "820f32ba-3dd9-4954-8e69-cc5996e68894",
+        "user_id": "user_1",
+        "procedure": "Chin Augmentation",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_cd9b84ad.jpg",
+        "created_at": "2026-05-05T15:49:11.613648"
+    },
+    {
+        "id": "9ca73913-462b-4543-98af-6e18a3a1134c",
+        "user_id": "user_1",
+        "procedure": "Chin Augmentation",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_2df9ee59.jpg",
+        "created_at": "2026-05-05T15:48:54.085041"
+    },
+    {
+        "id": "5e80209e-d8b4-4e64-ae0c-83c37f6ccf92",
+        "user_id": "user_1",
+        "procedure": "Chin Augmentation",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_f452c908.jpg",
+        "created_at": "2026-05-05T15:48:46.459815"
+    },
+    {
+        "id": "1bb47ccd-30dc-448f-82a7-a71005101c39",
+        "user_id": "user_1",
+        "procedure": "Chin Augmentation",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_3bfc0010.jpg",
+        "created_at": "2026-05-05T15:48:41.560069"
+    },
+    {
+        "id": "67a19735-67ff-43dc-a7a2-7f49c50f8902",
+        "user_id": "user_1",
+        "procedure": "Brow Lift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_4a826ee3.jpg",
+        "created_at": "2026-05-05T15:48:04.710584"
+    },
+    {
+        "id": "975f7ff7-ec17-4e04-9646-3dad75f6a268",
+        "user_id": "user_1",
+        "procedure": "Brow Lift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_72a1d264.jpg",
+        "created_at": "2026-05-05T15:47:57.803453"
+    },
+    {
+        "id": "c274e264-6209-4636-84da-e38ca864613a",
+        "user_id": "user_1",
+        "procedure": "Brow Lift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_e4e12164.jpg",
+        "created_at": "2026-05-05T15:47:53.946692"
+    },
+    {
+        "id": "0d6ea926-44c7-490a-a161-a926ede6ebcc",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_354ca5e6.jpg",
+        "created_at": "2026-05-05T15:47:39.804697"
+    },
+    {
+        "id": "e28d1bd2-33ff-4d0f-92d4-3d8019df2a6c",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_d7bb19da.jpg",
+        "created_at": "2026-05-05T15:47:33.320045"
+    },
+    {
+        "id": "a16bc3af-8ef3-423c-9cac-d81da15bae30",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_8a32be10.jpg",
+        "created_at": "2026-05-05T15:47:30.610781"
+    },
+    {
+        "id": "ec2db196-a1df-45cd-b0d5-f3da464bbbc4",
+        "user_id": "user_1",
+        "procedure": "Botox",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_801d0376.jpg",
+        "created_at": "2026-05-05T15:46:17.613369"
+    },
+    {
+        "id": "917535a6-ce94-4544-a856-0abbcadfae43",
+        "user_id": "user_1",
+        "procedure": "Microneedling",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_592b51b9.jpg",
+        "created_at": "2026-05-05T15:46:01.339743"
+    },
+    {
+        "id": "5abf68ed-5474-4cea-bd3d-7cabc7a48bf7",
+        "user_id": "user_1",
+        "procedure": "Microneedling",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_a5615b13.jpg",
+        "created_at": "2026-05-05T15:45:57.053315"
+    },
+    {
+        "id": "b245df36-e0c4-451b-94a9-5827b1ead32a",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_d01724d9.jpg",
+        "created_at": "2026-05-05T15:45:37.561937"
+    },
+    {
+        "id": "0c243b6e-eca9-482b-9ac1-1d25ccfb6986",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_42be04b8.jpg",
+        "created_at": "2026-05-05T15:45:26.345394"
+    },
+    {
+        "id": "e25742e2-fd75-4445-bca0-150fd1815761",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_e87f3e70.jpg",
+        "created_at": "2026-05-05T15:43:30.766524"
+    },
+    {
+        "id": "86f7f231-913a-4f5b-ab9d-c055de2f7a3d",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_2499020c.jpg",
+        "created_at": "2026-05-05T15:42:24.403437"
+    },
+    {
+        "id": "430be141-2a7b-46e9-9225-16763d8e985a",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_5d8b1dda.jpg",
+        "created_at": "2026-05-05T15:42:10.101227"
+    },
+    {
+        "id": "5871b6f8-aacc-4cb0-9193-e5d2ba633103",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_4bbbed7a.jpg",
+        "created_at": "2026-05-05T15:42:01.785895"
+    },
+    {
+        "id": "14528d9e-9dba-48ce-a4ce-0919b885ba6d",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_a5f5dc09.jpg",
+        "created_at": "2026-05-05T15:41:54.587834"
+    },
+    {
+        "id": "3ef48699-a0f4-4e2d-80db-793d8101d8fd",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_894db53f.jpg",
+        "created_at": "2026-05-05T15:41:45.994972"
+    },
+    {
+        "id": "2da28a22-2e77-4f77-8a55-2f46c5bf048e",
+        "user_id": "user_1",
+        "procedure": "Microneedling",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_30497b35.jpg",
+        "created_at": "2026-05-05T15:40:31.355258"
+    },
+    {
+        "id": "e50819ad-2566-47cc-8ad6-bb9416176405",
+        "user_id": "user_1",
+        "procedure": "Botox",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_49548e82.jpg",
+        "created_at": "2026-05-05T15:39:59.297073"
+    },
+    {
+        "id": "a05af822-fbe5-4a1a-9ab4-571a65f0ed63",
+        "user_id": "user_1",
+        "procedure": "Botox",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_05fa9942.jpg",
+        "created_at": "2026-05-05T15:39:52.470907"
+    },
+    {
+        "id": "166c05eb-1468-48f8-b818-05c0115dc8a9",
+        "user_id": "user_1",
+        "procedure": "Jawline Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_6b387818.jpg",
+        "created_at": "2026-05-05T15:39:30.198737"
+    },
+    {
+        "id": "735c0e6a-1e42-44b8-8ec8-882331df34e8",
+        "user_id": "user_1",
+        "procedure": "Jawline Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_408e877b.jpg",
+        "created_at": "2026-05-05T15:39:15.564305"
+    },
+    {
+        "id": "ccb9e4ce-1d35-4ccf-b448-125f17c20e99",
+        "user_id": "user_1",
+        "procedure": "Jawline Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_e2a3a6ac.jpg",
+        "created_at": "2026-05-05T15:39:11.439121"
+    },
+    {
+        "id": "c3d0586f-7ec8-4a30-8a7b-8151f7b964e5",
+        "user_id": "user_1",
+        "procedure": "Jawline Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_7116ab9a.jpg",
+        "created_at": "2026-05-05T15:39:05.213904"
+    },
+    {
+        "id": "5fdd5a78-16c4-40a7-a4cc-e3047e63ed85",
+        "user_id": "user_1",
+        "procedure": "Jawline Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_0196d4de.jpg",
+        "created_at": "2026-05-05T15:38:59.563745"
+    },
+    {
+        "id": "2fb7bf3d-bc27-4c10-b43d-71fe32cd0946",
+        "user_id": "user_1",
+        "procedure": "Jawline Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_e7af4c0a.jpg",
+        "created_at": "2026-05-05T15:38:53.706361"
+    },
+    {
+        "id": "3dfc834c-fbd8-4341-9b67-3b4410f4d808",
+        "user_id": "user_1",
+        "procedure": "Jawline Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_3f1abd10.jpg",
+        "created_at": "2026-05-05T15:38:50.346977"
+    },
+    {
+        "id": "93db418c-674e-455e-a836-cfe5ff874250",
+        "user_id": "user_1",
+        "procedure": "Jawline Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_f5673bc7.jpg",
+        "created_at": "2026-05-05T15:38:40.253467"
+    },
+    {
+        "id": "497fada8-3bf5-4cb3-9438-aad2ba2447d4",
+        "user_id": "user_1",
+        "procedure": "Jawline Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_477be691.jpg",
+        "created_at": "2026-05-05T15:38:36.313629"
+    },
+    {
+        "id": "246822f2-5622-47d7-b9d0-96f2f9d8c224",
+        "user_id": "user_1",
+        "procedure": "Jawline Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_648e52c8.jpg",
+        "created_at": "2026-05-05T15:38:29.495005"
+    },
+    {
+        "id": "70ac60f6-1436-4da7-b5a7-71975d66514f",
+        "user_id": "user_1",
+        "procedure": "Jawline Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_62f25584.jpg",
+        "created_at": "2026-05-05T15:38:19.060468"
+    },
+    {
+        "id": "a10b0172-cb32-45f7-a2ad-8dc2d9901800",
+        "user_id": "user_1",
+        "procedure": "Jawline Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_7892bd3a.jpg",
+        "created_at": "2026-05-05T15:38:12.428331"
+    },
+    {
+        "id": "a3c1d42f-8c56-44b7-bb59-307fcd2ffd53",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_bd8f7c20.jpg",
+        "created_at": "2026-05-05T15:35:54.820391"
+    },
+    {
+        "id": "c95fb89e-b0f1-4abc-b016-273b6e2073d3",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_64a62c2a.jpg",
+        "created_at": "2026-05-05T15:35:45.681445"
+    },
+    {
+        "id": "06fbef9a-dbe7-43e9-ba3c-723b0032a26d",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_55d1eb98.jpg",
+        "created_at": "2026-05-05T15:35:39.804753"
+    },
+    {
+        "id": "cfcc6069-6f46-4650-b97f-c1bfc99be9d2",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_35de2b59.jpg",
+        "created_at": "2026-05-05T15:35:33.311607"
+    },
+    {
+        "id": "d6dc658c-2a64-4008-810f-4b7a25f7b66d",
+        "user_id": "user_1",
+        "procedure": "Botox",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_1fd85a32.jpg",
+        "created_at": "2026-05-05T15:34:22.037996"
+    },
+    {
+        "id": "5f90398f-55c9-4558-98b2-30acf62c4b3a",
+        "user_id": "user_1",
+        "procedure": "Botox",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_17821890.jpg",
+        "created_at": "2026-05-05T15:34:00.453918"
+    },
+    {
+        "id": "687ceb41-c30b-4d49-9d64-0b86af1abf32",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_9e916853.jpg",
+        "created_at": "2026-05-05T15:33:21.928853"
+    },
+    {
+        "id": "82be2084-1af5-4ac4-bc7b-5b752aee842f",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_6e817b16.jpg",
+        "created_at": "2026-05-05T15:33:03.152386"
+    },
+    {
+        "id": "1a464683-c1d7-4569-8e47-d27b19fa24ad",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_a5d69500.jpg",
+        "created_at": "2026-05-05T15:32:58.802158"
+    },
+    {
+        "id": "32f5b2ca-0759-4e6b-90c8-bc605e1014ae",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_3482b360.jpg",
+        "created_at": "2026-05-05T15:32:54.883620"
+    },
+    {
+        "id": "aec327df-de13-47be-b9f3-2cff4b97c68e",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_df797c53.jpg",
+        "created_at": "2026-05-05T15:32:32.428869"
+    },
+    {
+        "id": "41bcde72-bdd1-42fa-b89f-e0b6641223d9",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_6995bb29.jpg",
+        "created_at": "2026-05-05T15:32:29.304626"
+    },
+    {
+        "id": "30abd699-2fa8-4bb4-a9f5-5c5c8da0afdc",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_1b0730fa.jpg",
+        "created_at": "2026-05-05T15:32:24.715802"
+    },
+    {
+        "id": "f35e65e1-5176-4c21-8079-6a1b48616952",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_a91adfc5.jpg",
+        "created_at": "2026-05-05T15:32:18.881516"
+    },
+    {
+        "id": "cb056998-26ae-47c7-9dd2-c1bde841d5af",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_5d3dc2fa.jpg",
+        "created_at": "2026-05-05T15:32:13.105548"
+    },
+    {
+        "id": "014e6480-f6a1-4734-bce1-29af11e1de20",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_ebe3a9e8.jpg",
+        "created_at": "2026-05-05T15:32:08.338437"
+    },
+    {
+        "id": "60bf8bbd-5f22-4837-9b97-5bc56d2511f7",
+        "user_id": "user_1",
+        "procedure": "Botox",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_005afe3a.jpg",
+        "created_at": "2026-05-05T15:31:30.007082"
+    },
+    {
+        "id": "d290f07e-355c-49d1-b3e2-f5a105ce91c3",
+        "user_id": "user_1",
+        "procedure": "Botox",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_b613f396.jpg",
+        "created_at": "2026-05-05T15:31:25.880023"
+    },
+    {
+        "id": "10ee5618-9103-437b-b0a7-a2f09e799185",
+        "user_id": "user_1",
+        "procedure": "Botox",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_54dd67fd.jpg",
+        "created_at": "2026-05-05T15:31:01.368902"
+    },
+    {
+        "id": "b6aeb50f-3db4-4803-b27b-18d2b7fcfa1e",
+        "user_id": "user_1",
+        "procedure": "Chin Augmentation",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_24170d56.jpg",
+        "created_at": "2026-05-04T21:55:08.137939"
+    },
+    {
+        "id": "6eab854d-7dba-42e6-8d54-9402b1487b13",
+        "user_id": "user_1",
+        "procedure": "Chin Augmentation",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_3293bf6c.jpg",
+        "created_at": "2026-05-04T21:54:24.077892"
+    },
+    {
+        "id": "1fb19c56-232c-4156-9da8-1ebdab21f7f1",
+        "user_id": "user_1",
+        "procedure": "Chin Augmentation",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_2739d5bb.jpg",
+        "created_at": "2026-05-04T21:54:13.253171"
+    },
+    {
+        "id": "32587597-afce-42b3-ab8a-01ac37f7855d",
+        "user_id": "user_1",
+        "procedure": "Chin Augmentation",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_df2017c3.jpg",
+        "created_at": "2026-05-04T21:54:06.140569"
+    },
+    {
+        "id": "c28b313f-d371-4943-9845-79502b7b6671",
+        "user_id": "user_1",
+        "procedure": "Chin Augmentation",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_200524bd.jpg",
+        "created_at": "2026-05-04T21:53:59.982668"
+    },
+    {
+        "id": "aad30973-4c8b-401c-bdfb-ed7711ac72fe",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_6b0092d6.jpg",
+        "created_at": "2026-05-04T21:53:25.204893"
+    },
+    {
+        "id": "d143773d-7f00-4116-9753-30e92f6c8195",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_a33fbc1f.jpg",
+        "created_at": "2026-05-04T21:53:14.424035"
+    },
+    {
+        "id": "9f98578a-99e7-4a2d-a54e-bd5829423769",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_d935d2b5.jpg",
+        "created_at": "2026-05-04T21:53:10.339761"
+    },
+    {
+        "id": "2f608d1d-cc55-4a75-8a4e-b434ab98126e",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_e0799868.jpg",
+        "created_at": "2026-05-04T21:53:06.264832"
+    },
+    {
+        "id": "dc508fbc-1df2-42ec-b847-2e8295a289e4",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_4566f67d.jpg",
+        "created_at": "2026-05-04T21:53:02.515207"
+    },
+    {
+        "id": "c7db2360-83dc-42cb-869b-d5b04bb40006",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_713431b9.jpg",
+        "created_at": "2026-05-04T21:52:58.105411"
+    },
+    {
+        "id": "caca633a-02c4-4d60-ae06-06257bd5ff72",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_32379e86.jpg",
+        "created_at": "2026-05-04T21:52:53.734909"
+    },
+    {
+        "id": "90ef9a33-95e0-446a-96f2-08f0fe5c29be",
+        "user_id": "user_1",
+        "procedure": "Botox",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_4a996cd4.jpg",
+        "created_at": "2026-05-04T21:52:23.155184"
+    },
+    {
+        "id": "eaf23196-1dfb-459a-a794-8ef397339b89",
+        "user_id": "user_1",
+        "procedure": "Botox",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_89a3d69a.jpg",
+        "created_at": "2026-05-04T21:52:11.743711"
+    },
+    {
+        "id": "12b538fb-7d79-4c89-9b83-2df8b6399202",
+        "user_id": "user_1",
+        "procedure": "Chin Augmentation",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_a52133e3.jpg",
+        "created_at": "2026-05-04T21:51:08.354711"
+    },
+    {
+        "id": "a90c771e-96a0-42a2-ac1f-71440f941b42",
+        "user_id": "user_1",
+        "procedure": "Chin Augmentation",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_bbd73bb6.jpg",
+        "created_at": "2026-05-04T21:50:56.711779"
+    },
+    {
+        "id": "e92bb6ca-a3e3-44ac-9403-20f7e72f3be2",
+        "user_id": "user_1",
+        "procedure": "Chin Augmentation",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_a4e51f92.jpg",
+        "created_at": "2026-05-04T21:50:25.729666"
+    },
+    {
+        "id": "d58d5970-310e-415a-9a9e-01fc2bb745ed",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_037ebe7d.jpg",
+        "created_at": "2026-05-04T21:49:46.146471"
+    },
+    {
+        "id": "9f078f8f-a079-4f72-951a-32b2eb526b2c",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_3cd0920a.jpg",
+        "created_at": "2026-05-04T21:49:32.363368"
+    },
+    {
+        "id": "39c31895-283a-48d7-a020-ca0eb1cf6ba4",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_5b7760d5.jpg",
+        "created_at": "2026-05-04T21:49:25.988301"
+    },
+    {
+        "id": "bcd2be6c-f841-4564-b79c-b764c3551264",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_d1975e0c.jpg",
+        "created_at": "2026-05-04T21:49:21.200803"
+    },
+    {
+        "id": "a281cc59-05f2-4df9-be0c-1421d964068b",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_c7a4e518.jpg",
+        "created_at": "2026-05-04T21:49:16.180236"
+    },
+    {
+        "id": "69756612-9c86-469d-9d0a-a4982aa125e9",
+        "user_id": "user_1",
+        "procedure": "Botox",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_a56f36b1.jpg",
+        "created_at": "2026-05-04T21:48:24.668018"
+    },
+    {
+        "id": "da6a371c-bd48-44b4-8577-0eb698d40535",
+        "user_id": "user_1",
+        "procedure": "Botox",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_2d6b3af6.jpg",
+        "created_at": "2026-05-04T21:48:15.449946"
+    },
+    {
+        "id": "c8b87b4a-2dc5-42d4-8780-3f164429c400",
+        "user_id": "user_1",
+        "procedure": "Botox",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_ca0477e4.jpg",
+        "created_at": "2026-05-04T21:48:10.470827"
+    },
+    {
+        "id": "842d5ac5-5a79-4a38-becb-b4bfdae44754",
+        "user_id": "user_1",
+        "procedure": "Laser Skin Resurfacing",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_48e2be90.jpg",
+        "created_at": "2026-05-04T21:47:51.988182"
+    },
+    {
+        "id": "9f4dd9a7-8a82-4615-892d-bf91ea5c51f1",
+        "user_id": "user_1",
+        "procedure": "Laser Skin Resurfacing",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_857434ae.jpg",
+        "created_at": "2026-05-04T21:47:40.500902"
+    },
+    {
+        "id": "4bd4e8c7-b5b6-4a98-84ae-8e8c74c69ea6",
+        "user_id": "user_1",
+        "procedure": "Laser Skin Resurfacing",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_f4f18bb4.jpg",
+        "created_at": "2026-05-04T21:47:34.749517"
+    },
+    {
+        "id": "7940e080-ecd9-46a2-b104-5b9524b3e388",
+        "user_id": "user_1",
+        "procedure": "Laser Skin Resurfacing",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_ae5cb1a2.jpg",
+        "created_at": "2026-05-04T21:47:30.054828"
+    },
+    {
+        "id": "ba627174-e520-4e48-8594-5b92829e10a1",
+        "user_id": "user_1",
+        "procedure": "Laser Skin Resurfacing",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_cf0b6a38.jpg",
+        "created_at": "2026-05-04T21:47:25.504913"
+    },
+    {
+        "id": "d77a23e3-c22f-4e30-8f92-3bb2736e7d14",
+        "user_id": "user_1",
+        "procedure": "Chemical Peels",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_23106de5.jpg",
+        "created_at": "2026-05-04T21:47:10.464906"
+    },
+    {
+        "id": "373d9307-5056-4b6d-b948-a0e19d4ce718",
+        "user_id": "user_1",
+        "procedure": "Chemical Peels",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_d54b2037.jpg",
+        "created_at": "2026-05-04T21:46:56.431593"
+    },
+    {
+        "id": "0c401182-ac28-4bea-838f-0698724ab7b7",
+        "user_id": "user_1",
+        "procedure": "HydraFacial",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_b7a0c015.jpg",
+        "created_at": "2026-05-04T21:27:56.382295"
+    },
+    {
+        "id": "7d20583d-fa37-48cc-9e85-d374cdbf7656",
+        "user_id": "user_1",
+        "procedure": "Lower Blepharoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_a98ab855.jpg",
+        "created_at": "2026-05-04T21:27:23.142025"
+    },
+    {
+        "id": "b060728a-78ca-4386-b0d2-6bf4a83222c8",
+        "user_id": "user_1",
+        "procedure": "Lower Blepharoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_19237920.jpg",
+        "created_at": "2026-05-04T21:27:05.564610"
+    },
+    {
+        "id": "d8a71e08-7424-4745-8952-7703ef0a1b87",
+        "user_id": "user_1",
+        "procedure": "Fat Grafting",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_8aa36560.jpg",
+        "created_at": "2026-05-04T21:26:31.072241"
+    },
+    {
+        "id": "d7aaa831-1bf3-4c48-9d5d-cba93da92e06",
+        "user_id": "user_1",
+        "procedure": "Fat Grafting",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_575a6fc5.jpg",
+        "created_at": "2026-05-04T21:26:18.679567"
+    },
+    {
+        "id": "7af77f7a-a994-4708-8a99-7e5e71679e0b",
+        "user_id": "user_1",
+        "procedure": "RF Skin Tightening",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_0c554e3e.jpg",
+        "created_at": "2026-05-04T21:25:46.101209"
+    },
+    {
+        "id": "beebef9f-bfd8-4dda-b026-3e63922cdb2a",
+        "user_id": "user_1",
+        "procedure": "RF Skin Tightening",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_4147a9ea.jpg",
+        "created_at": "2026-05-04T21:25:36.347359"
+    },
+    {
+        "id": "b9408403-d4a0-4140-861c-afb8e35cbb65",
+        "user_id": "user_1",
+        "procedure": "Microneedling with PRP",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_5b316208.jpg",
+        "created_at": "2026-05-04T21:24:47.316296"
+    },
+    {
+        "id": "7e8813db-07e6-4414-849c-a59c5d13b221",
+        "user_id": "user_1",
+        "procedure": "Laser Skin Resurfacing",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_fd08a8fa.jpg",
+        "created_at": "2026-05-04T21:22:30.665832"
+    },
+    {
+        "id": "33dc59d1-d229-4d73-8f04-89bbfbe7ff79",
+        "user_id": "user_1",
+        "procedure": "Laser Skin Resurfacing",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_14edb60b.jpg",
+        "created_at": "2026-05-04T21:22:17.868533"
+    },
+    {
+        "id": "cc4495c3-05bd-495d-b3dc-7f5292fc277f",
+        "user_id": "user_1",
+        "procedure": "Laser Skin Resurfacing",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_a96c74c0.jpg",
+        "created_at": "2026-05-04T21:21:56.206307"
+    },
+    {
+        "id": "d19ffb4c-5915-40ae-940b-79a20c99c87c",
+        "user_id": "user_1",
+        "procedure": "Laser Skin Resurfacing",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_74d8f1e2.jpg",
+        "created_at": "2026-05-04T21:21:35.305560"
+    },
+    {
+        "id": "daf1789a-5d80-46b9-9246-8dde2907aa83",
+        "user_id": "user_1",
+        "procedure": "Laser Skin Resurfacing",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_412b0baf.jpg",
+        "created_at": "2026-05-04T21:21:25.250561"
+    },
+    {
+        "id": "084336d9-6846-4872-b77d-0621c489aef6",
+        "user_id": "user_1",
+        "procedure": "Non-Surgical Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_78883294.jpg",
+        "created_at": "2026-05-04T21:20:59.026416"
+    },
+    {
+        "id": "773089ea-e8b1-470f-a654-26c90c0855f8",
+        "user_id": "user_1",
+        "procedure": "Non-Surgical Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_799b192e.jpg",
+        "created_at": "2026-05-04T21:20:51.001126"
+    },
+    {
+        "id": "d1b18852-37cb-4bce-8751-0e0dbc13e4f6",
+        "user_id": "user_1",
+        "procedure": "Non-Surgical Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_9483899a.jpg",
+        "created_at": "2026-05-04T21:20:45.106045"
+    },
+    {
+        "id": "03093abe-64b4-48d0-86cc-d39ad51414bc",
+        "user_id": "user_1",
+        "procedure": "Botox",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_d8aa1632.jpg",
+        "created_at": "2026-05-04T21:19:58.497986"
+    },
+    {
+        "id": "138d4a87-7d01-46c4-8d04-0fb24f9208c6",
+        "user_id": "user_1",
+        "procedure": "Botox",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_52fb73cc.jpg",
+        "created_at": "2026-05-04T21:19:41.036243"
+    },
+    {
+        "id": "297cdcc8-c675-412f-94df-c354e4073572",
+        "user_id": "user_1",
+        "procedure": "Botox",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_844d5640.jpg",
+        "created_at": "2026-05-04T21:19:25.776724"
+    },
+    {
+        "id": "2d1c48bb-9e4e-46d8-8278-57c1b50b0c5d",
+        "user_id": "user_1",
+        "procedure": "Jawline Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_ddf638ee.jpg",
+        "created_at": "2026-05-04T21:18:47.974143"
+    },
+    {
+        "id": "f4f300f0-e3c7-4319-81dd-91c813cda0ed",
+        "user_id": "user_1",
+        "procedure": "Jawline Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_c6e61e65.jpg",
+        "created_at": "2026-05-04T21:18:31.126388"
+    },
+    {
+        "id": "ee9fdf31-37b8-4bd4-8daa-fa5fadb1d295",
+        "user_id": "user_1",
+        "procedure": "Jawline Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_1d8cdb7c.jpg",
+        "created_at": "2026-05-04T21:18:18.066379"
+    },
+    {
+        "id": "76db4c68-41a4-4148-bc1f-9df10ad55297",
+        "user_id": "user_1",
+        "procedure": "Jawline Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_2b817851.jpg",
+        "created_at": "2026-05-04T21:18:07.336780"
+    },
+    {
+        "id": "7af3cca1-d976-43fa-965a-53f8b645d5c5",
+        "user_id": "user_1",
+        "procedure": "Jawline Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_a72af888.jpg",
+        "created_at": "2026-05-04T21:17:58.112252"
+    },
+    {
+        "id": "13580e94-962f-4fba-a638-ffa82c869d04",
+        "user_id": "user_1",
+        "procedure": "Jawline Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_b42556a2.jpg",
+        "created_at": "2026-05-04T21:17:50.738696"
+    },
+    {
+        "id": "3230e703-a265-4fa2-9e5c-5814d2456b61",
+        "user_id": "user_1",
+        "procedure": "Jawline Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_4b82a1c2.jpg",
+        "created_at": "2026-05-04T21:17:43.619096"
+    },
+    {
+        "id": "02295969-be75-47b9-af51-9a0fe425c453",
+        "user_id": "user_1",
+        "procedure": "Jawline Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_a75a76d9.jpg",
+        "created_at": "2026-05-04T21:17:35.922911"
+    },
+    {
+        "id": "a02dd323-af22-4738-a25c-553b8cd89160",
+        "user_id": "user_1",
+        "procedure": "Lip Lift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_2a0918e8.jpg",
+        "created_at": "2026-05-04T21:16:45.493366"
+    },
+    {
+        "id": "e818e70a-ed7a-4a02-a898-b0125c376eae",
+        "user_id": "user_1",
+        "procedure": "Lip Lift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_517408ae.jpg",
+        "created_at": "2026-05-04T21:16:27.504610"
+    },
+    {
+        "id": "2e47a60c-6992-44eb-a015-2f022e751a86",
+        "user_id": "user_1",
+        "procedure": "Lip Lift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_92778868.jpg",
+        "created_at": "2026-05-04T21:16:20.892879"
+    },
+    {
+        "id": "abe58cef-58f6-4ddb-b233-92ca5d608480",
+        "user_id": "user_1",
+        "procedure": "Lip Lift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_cba809e0.jpg",
+        "created_at": "2026-05-04T21:15:57.418168"
+    },
+    {
+        "id": "3360bd1d-3ee8-4d60-b9f1-3ef997703c95",
+        "user_id": "user_1",
+        "procedure": "Lip Lift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_41487fae.jpg",
+        "created_at": "2026-05-04T21:15:51.239106"
+    },
+    {
+        "id": "1b30cb93-30b5-4b56-aa6e-c9e5057cca9f",
+        "user_id": "user_1",
+        "procedure": "Lip Lift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_4b6fd221.jpg",
+        "created_at": "2026-05-04T21:15:35.458437"
+    },
+    {
+        "id": "f38cc029-e30d-4814-b2b3-00f50c2e39a9",
+        "user_id": "user_1",
+        "procedure": "Lip Lift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_2d4b78ae.jpg",
+        "created_at": "2026-05-04T21:15:30.375038"
+    },
+    {
+        "id": "32ad1960-afba-44d4-9981-cee0f3984541",
+        "user_id": "user_1",
+        "procedure": "Lip Lift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_271b417d.jpg",
+        "created_at": "2026-05-04T21:15:20.585810"
+    },
+    {
+        "id": "5b6b906f-a2c2-4d25-a482-04d8624a9795",
+        "user_id": "user_1",
+        "procedure": "Lip Lift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_2cf154fb.jpg",
+        "created_at": "2026-05-04T21:15:14.962090"
+    },
+    {
+        "id": "9f60e7ef-7843-4059-9acf-f6d41e60743c",
+        "user_id": "user_1",
+        "procedure": "Lip Lift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_b6166931.jpg",
+        "created_at": "2026-05-04T21:15:10.854948"
+    },
+    {
+        "id": "2cada1af-ec8e-4624-966c-525f6172e20b",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_058c62e8.jpg",
+        "created_at": "2026-05-04T21:14:08.290846"
+    },
+    {
+        "id": "3f10d47a-3f3c-4b97-bef1-8e95b7fc19d8",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_f9c43479.jpg",
+        "created_at": "2026-05-04T21:13:50.638355"
+    },
+    {
+        "id": "786d6428-6675-4cd9-a765-bf2e3c2b80ff",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_67578a6d.jpg",
+        "created_at": "2026-05-04T21:13:42.406350"
+    },
+    {
+        "id": "52384a38-c220-4226-88b7-d08e0902d72e",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_b97fd5fc.jpg",
+        "created_at": "2026-05-04T21:13:30.926545"
+    },
+    {
+        "id": "fed36c37-d4f8-4500-8515-a39380da2080",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_518fd662.jpg",
+        "created_at": "2026-05-04T21:13:14.811640"
+    },
+    {
+        "id": "6495b089-f38d-4a5c-8719-00d38c332d6f",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_c709bc57.jpg",
+        "created_at": "2026-05-04T21:13:07.945793"
+    },
+    {
+        "id": "3bb8e2e1-9ea1-49df-af11-c9fab087b56d",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_e0671227.jpg",
+        "created_at": "2026-05-04T21:12:58.648248"
+    },
+    {
+        "id": "fc09b353-d877-42bb-9386-8cc7a07c0e37",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_0a84e06d.jpg",
+        "created_at": "2026-05-04T21:12:52.500098"
+    },
+    {
+        "id": "2612adce-8893-4ef1-8f2b-4f54eb75bae5",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_81927706.jpg",
+        "created_at": "2026-05-04T21:04:58.483190"
+    },
+    {
+        "id": "bb644021-46b3-4936-955b-cc45aaf7e41a",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_da4d22c4.jpg",
+        "created_at": "2026-05-04T21:04:28.777603"
+    },
+    {
+        "id": "75f229dc-8aba-46a7-9ce7-9e676a0574ea",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_65fec0bf.jpg",
+        "created_at": "2026-05-04T21:03:00.796064"
+    },
+    {
+        "id": "ce1acee2-ae4a-4a67-9a8a-9d00144e503c",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_1af566ff.jpg",
+        "created_at": "2026-05-04T21:02:51.510252"
+    },
+    {
+        "id": "1b7b99d2-261c-448a-861c-ff0cf0889b19",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_4528b27f.jpg",
+        "created_at": "2026-05-04T21:02:43.133575"
+    },
+    {
+        "id": "a1396136-e6eb-4b2b-ab6a-8428e3cbd1d9",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_1308208b.jpg",
+        "created_at": "2026-05-04T21:02:33.305301"
+    },
+    {
+        "id": "c4d6599c-6ce7-43b4-b37d-9710ac138daa",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_62614e61.jpg",
+        "created_at": "2026-05-04T21:02:26.844690"
+    },
+    {
+        "id": "c5504fea-fa9c-4b85-95f8-18a020414b5a",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_e5eb7d49.jpg",
+        "created_at": "2026-05-04T21:02:19.614820"
+    },
+    {
+        "id": "c565a146-999b-4e9c-be24-946bb84d588b",
+        "user_id": "user_1",
+        "procedure": "Carbon Laser Facial",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_8c7b03e8.jpg",
+        "created_at": "2026-05-04T21:00:11.860985"
+    },
+    {
+        "id": "c31e7585-3e24-463c-b75c-a64d3d551856",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_51dc2e3a.jpg",
+        "created_at": "2026-05-04T20:57:12.678646"
+    },
+    {
+        "id": "f2ae1f9f-2971-4d47-b226-6901d633dc15",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_bca62065.jpg",
+        "created_at": "2026-05-04T20:57:01.474593"
+    },
+    {
+        "id": "32ad26c7-6051-4c36-a0f1-dd144e9808c7",
+        "user_id": "user_1",
+        "procedure": "Botox",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_51e6305d.jpg",
+        "created_at": "2026-05-04T20:56:41.352989"
+    },
+    {
+        "id": "9f82081b-ab7b-4e67-804c-bf715929a131",
+        "user_id": "user_1",
+        "procedure": "Botox",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_aed4eeb4.jpg",
+        "created_at": "2026-05-04T20:56:36.649625"
+    },
+    {
+        "id": "c5b1b7c2-7671-4550-807d-b15d7dc15a8c",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_c20d9e23.jpg",
+        "created_at": "2026-05-04T20:53:25.015884"
+    },
+    {
+        "id": "afdbb199-fd2b-4af1-bf6a-7bbed9dbe4ab",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_77a90757.jpg",
+        "created_at": "2026-05-04T20:53:08.067137"
+    },
+    {
+        "id": "4788c329-fed1-4ebe-bb99-4a3b41317794",
+        "user_id": "user_1",
+        "procedure": "Botox",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_6879c032.jpg",
+        "created_at": "2026-05-04T20:52:37.974058"
+    },
+    {
+        "id": "fbbb1fb8-a2d3-4c3d-ab3f-dfa2a980d8bf",
+        "user_id": "user_1",
+        "procedure": "Botox",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_bb94518b.jpg",
+        "created_at": "2026-05-04T20:50:48.910579"
+    },
+    {
+        "id": "4a8438e1-4c9b-4dde-a910-6f7cbe30a29a",
+        "user_id": "user_1",
+        "procedure": "Botox",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_b2cd7b30.jpg",
+        "created_at": "2026-05-04T20:50:44.638031"
+    },
+    {
+        "id": "2257628d-81d7-4c9e-8f0c-e080ae1aecab",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_74ebe18a.jpg",
+        "created_at": "2026-05-04T20:50:24.062188"
+    },
+    {
+        "id": "51318e39-9595-4c7e-9d86-2765bde81d15",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_f4017b87.jpg",
+        "created_at": "2026-05-04T20:50:18.803764"
+    },
+    {
+        "id": "566dfb26-8648-46d3-8a03-ced0a429886c",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_adb2f067.jpg",
+        "created_at": "2026-05-04T20:39:54.635894"
+    },
+    {
+        "id": "a3d8b553-ca89-4cbe-a349-3aeb9457b5f5",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_4c9d3135.jpg",
+        "created_at": "2026-05-04T20:39:44.269741"
+    },
+    {
+        "id": "63aabf1c-9bda-4b87-91d1-bb48aa81d8b3",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_23a2239c.jpg",
+        "created_at": "2026-05-04T20:39:40.553581"
+    },
+    {
+        "id": "92fde39b-e021-4804-9d8b-2f490196ef22",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_f9f4e969.jpg",
+        "created_at": "2026-05-04T20:39:35.006132"
+    },
+    {
+        "id": "258c2e0d-4267-459b-827d-481dfe50ff48",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_6ba8974b.jpg",
+        "created_at": "2026-05-04T20:39:30.294486"
+    },
+    {
+        "id": "72dad9eb-fc22-4fea-a3ef-b97d94b2c52f",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_8c5dc1f9.jpg",
+        "created_at": "2026-05-04T20:39:02.415007"
+    },
+    {
+        "id": "15811acf-e33b-4da6-a972-3f862a01adb5",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_3b0b0f1f.jpg",
+        "created_at": "2026-05-04T20:38:48.812099"
+    },
+    {
+        "id": "3f2b2dd6-d725-44c4-a4a0-5a262ee7f067",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_acda05e5.jpg",
+        "created_at": "2026-05-04T20:38:44.197173"
+    },
+    {
+        "id": "51deaa1b-ce45-4fd2-977a-f8d9a98d0b5f",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_49862b77.jpg",
+        "created_at": "2026-05-04T20:38:28.734494"
+    },
+    {
+        "id": "a94ce504-9cb6-45a3-8969-e5bf852db5a9",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_00542eac.jpg",
+        "created_at": "2026-05-04T20:38:24.781027"
+    },
+    {
+        "id": "81b02137-352e-46d4-9909-f5746b030461",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_2e91516b.jpg",
+        "created_at": "2026-05-04T20:29:00.111849"
+    },
+    {
+        "id": "c9fe66f9-1a01-41d6-9b71-0e967cf68943",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_90e2c8cd.jpg",
+        "created_at": "2026-05-04T20:28:56.818046"
+    },
+    {
+        "id": "d4427108-cc4d-4dda-9d7d-5aaff611902c",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_3811139d.jpg",
+        "created_at": "2026-05-04T20:28:50.289957"
+    },
+    {
+        "id": "082d9eb8-c937-435b-9185-17026dc76c6e",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_d2e97aa1.jpg",
+        "created_at": "2026-05-04T20:28:46.588022"
+    },
+    {
+        "id": "fa9f126b-cc41-4f8b-8896-aa67d40ea3c2",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_dfc58c37.jpg",
+        "created_at": "2026-05-04T20:28:14.241649"
+    },
+    {
+        "id": "e3f3a808-aac9-42ca-b12f-e83d9e1fd38d",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_1b4bff49.jpg",
+        "created_at": "2026-05-04T20:27:59.958531"
+    },
+    {
+        "id": "c99e67c9-0225-48c4-a7a1-09c2d650c251",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_3c839232.jpg",
+        "created_at": "2026-05-04T20:27:53.974194"
+    },
+    {
+        "id": "1cb9cca9-af71-4cb2-a7d0-95ae4adc0c42",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_a00fa547.jpg",
+        "created_at": "2026-05-04T20:27:48.483236"
+    },
+    {
+        "id": "8529e39b-3d17-4e65-9ea4-276e8c1f4fc6",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_3b52610b.jpg",
+        "created_at": "2026-05-04T20:27:44.025075"
+    },
+    {
+        "id": "788977b5-8ddb-4c3d-a12e-9e5a597bf9e4",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_2ff7b490.jpg",
+        "created_at": "2026-05-04T20:27:37.628039"
+    },
+    {
+        "id": "41eb5258-4795-4a0e-aeea-fc6193b5a7c8",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_bfee378c.jpg",
+        "created_at": "2026-05-04T20:27:33.609176"
+    },
+    {
+        "id": "9f2e4814-28ef-4a98-9644-214360690ace",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_82b7710e.jpg",
+        "created_at": "2026-05-04T20:27:29.654820"
+    },
+    {
+        "id": "69d73286-4c2a-4a97-90f0-385f951c6166",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_176a488a.jpg",
+        "created_at": "2026-05-04T20:27:25.758173"
+    },
+    {
+        "id": "c8ad77dd-d11f-4354-ab7b-8a063f16259f",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_fd45bd44.jpg",
+        "created_at": "2026-05-04T20:27:21.858870"
+    },
+    {
+        "id": "04ad13d1-0445-4e2c-a977-6012281b3a14",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_d5be59f3.jpg",
+        "created_at": "2026-05-04T20:27:17.902786"
+    },
+    {
+        "id": "e31df18b-39d1-44e9-8f26-bcd7aa711652",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_718d17c2.jpg",
+        "created_at": "2026-05-04T20:27:14.151544"
+    },
+    {
+        "id": "4f53ddc9-3d36-469d-a218-930115ccfa8b",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_e27c4dd3.jpg",
+        "created_at": "2026-05-04T20:27:09.400040"
+    },
+    {
+        "id": "460ab7d4-57fb-4440-94d5-001c41b30660",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_de951fe7.jpg",
+        "created_at": "2026-05-04T20:27:04.854964"
+    },
+    {
+        "id": "26a9c79b-92bd-40f9-924c-cffce70ee263",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_1d44c032.jpg",
+        "created_at": "2026-05-04T20:15:34.688768"
+    },
+    {
+        "id": "f78ba5de-5825-494c-8adc-eb479a999bc7",
+        "user_id": "user_1",
+        "procedure": "Jawline Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_471f0991.jpg",
+        "created_at": "2026-05-04T20:15:05.805001"
+    },
+    {
+        "id": "ad1a2cb7-4155-4ff8-926e-e4b263b5d653",
+        "user_id": "user_1",
+        "procedure": "Laser Skin Resurfacing",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_c61a35b4.jpg",
+        "created_at": "2026-05-04T20:14:50.054266"
+    },
+    {
+        "id": "d5adfde2-5f92-4f45-b21c-ac433acd17c6",
+        "user_id": "user_1",
+        "procedure": "Laser Skin Resurfacing",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_f270155f.jpg",
+        "created_at": "2026-05-04T20:14:44.960077"
+    },
+    {
+        "id": "6ffeed4e-a1e5-43c8-a714-16af77d6c09f",
+        "user_id": "user_1",
+        "procedure": "Laser Skin Resurfacing",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_76ad29e6.jpg",
+        "created_at": "2026-05-04T20:14:39.720892"
+    },
+    {
+        "id": "c4cb71dd-e883-4afd-86b6-09a99099648c",
+        "user_id": "user_1",
+        "procedure": "Laser Skin Resurfacing",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_d07e5bae.jpg",
+        "created_at": "2026-05-04T20:14:35.630103"
+    },
+    {
+        "id": "c5538362-e01f-40ba-ae52-7c5a1bc14a9d",
+        "user_id": "user_1",
+        "procedure": "Laser Skin Resurfacing",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_f6f436ab.jpg",
+        "created_at": "2026-05-04T20:04:13.136689"
+    },
+    {
+        "id": "19a74204-c6f5-4bee-863c-aab607630190",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_8e46757d.jpg",
+        "created_at": "2026-05-04T20:03:33.094027"
+    },
+    {
+        "id": "6ff73142-cdce-4a65-a94e-9f3003088533",
+        "user_id": "user_1",
+        "procedure": "Neck Lift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_4a154659.jpg",
+        "created_at": "2026-05-04T20:03:08.553859"
+    },
+    {
+        "id": "a48baca5-9feb-4e52-a40c-90249c69de9f",
+        "user_id": "user_1",
+        "procedure": "Neck Lift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_6afe9cd4.jpg",
+        "created_at": "2026-05-04T20:03:04.088286"
+    },
+    {
+        "id": "dbe22d8a-44c0-41e4-914b-19f3588bde7a",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_5f936571.jpg",
+        "created_at": "2026-05-04T20:02:37.991474"
+    },
+    {
+        "id": "b562db9c-bd91-4ddf-ae7e-bb9d36e99805",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_f9d42a26.jpg",
+        "created_at": "2026-05-04T19:57:35.242791"
+    },
+    {
+        "id": "a9dd6502-c127-4003-897f-f960e7cb2dae",
+        "user_id": "user_1",
+        "procedure": "Non-Surgical Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_950a633f.jpg",
+        "created_at": "2026-05-04T19:57:09.477005"
+    },
+    {
+        "id": "46d5a07d-f99c-46f7-8fe1-3ba977476047",
+        "user_id": "user_1",
+        "procedure": "Jawline Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_19373f2e.jpg",
+        "created_at": "2026-05-04T19:56:38.942666"
+    },
+    {
+        "id": "53489a89-cfe7-47b2-b604-09dfcac8d9b6",
+        "user_id": "user_1",
+        "procedure": "Laser Skin Resurfacing",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_35a26208.jpg",
+        "created_at": "2026-05-04T19:56:14.318153"
+    },
+    {
+        "id": "28301c61-feca-4104-9d0b-f401c4debba9",
+        "user_id": "user_1",
+        "procedure": "Laser Skin Resurfacing",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_49684895.jpg",
+        "created_at": "2026-05-04T19:56:09.061533"
+    },
+    {
+        "id": "1c803476-55b4-46c1-808b-e53949f3a5cd",
+        "user_id": "user_1",
+        "procedure": "Laser Skin Resurfacing",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_17b29025.jpg",
+        "created_at": "2026-05-04T19:56:01.767717"
+    },
+    {
+        "id": "ba6c22c1-0179-477b-b12c-5ef01a39687a",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_8c7f8759.jpg",
+        "created_at": "2026-05-04T19:55:32.727331"
+    },
+    {
+        "id": "303ab471-f8df-44a8-b1f4-2fce891f523e",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_8a5c4e5c.jpg",
+        "created_at": "2026-05-04T19:55:29.515834"
+    },
+    {
+        "id": "8e37a364-32a9-4802-bfaa-b03f5540493a",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_23fe4b00.jpg",
+        "created_at": "2026-05-04T19:55:18.692747"
+    },
+    {
+        "id": "b838c879-60b7-4e35-ad38-aa48006de780",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_1a6d119b.jpg",
+        "created_at": "2026-05-04T19:55:14.874426"
+    },
+    {
+        "id": "25a33807-63ec-43e2-9228-389b37eb3cea",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_e37e7588.jpg",
+        "created_at": "2026-05-04T19:55:11.488764"
+    },
+    {
+        "id": "aff4a179-ce05-44d3-80af-b49cc4735e75",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_da350bdc.jpg",
+        "created_at": "2026-05-04T19:55:07.263159"
+    },
+    {
+        "id": "3120905a-53eb-43d8-b1b3-783b4a74e5a2",
+        "user_id": "user_1",
+        "procedure": "Botox",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_13b0101b.jpg",
+        "created_at": "2026-05-04T19:54:40.040540"
+    },
+    {
+        "id": "bdb8e919-efa4-41f9-851b-f2187333d89d",
+        "user_id": "user_1",
+        "procedure": "Botox",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_e895f2e6.jpg",
+        "created_at": "2026-05-04T19:54:32.301968"
+    },
+    {
+        "id": "352bcfb5-75a5-4d84-b92b-cbf420edde45",
+        "user_id": "user_1",
+        "procedure": "Botox",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_6a01528c.jpg",
+        "created_at": "2026-05-04T19:54:28.380609"
+    },
+    {
+        "id": "d8fc69e0-e8f8-4f54-8299-b5edd65e72d9",
+        "user_id": "user_1",
+        "procedure": "Botox",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_61047aa5.jpg",
+        "created_at": "2026-05-04T19:54:21.420882"
+    },
+    {
+        "id": "221a3a03-68de-4a57-ae99-298a4da092e5",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_6a670b20.jpg",
+        "created_at": "2026-05-04T19:33:18.842286"
+    },
+    {
+        "id": "52b50745-faa1-451e-95ac-263582dd5089",
+        "user_id": "user_1",
+        "procedure": "Jawline Surgery",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_245114e0.jpg",
+        "created_at": "2026-05-04T19:32:24.375726"
+    },
+    {
+        "id": "76a22c0f-8cf8-479d-acb1-77a24cdcd035",
+        "user_id": "user_1",
+        "procedure": "Jawline Surgery",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_80bba7d7.jpg",
+        "created_at": "2026-05-04T19:32:01.654773"
+    },
+    {
+        "id": "3a0de969-c1cf-43c1-8316-1d1fdfa95cab",
+        "user_id": "user_1",
+        "procedure": "Lower Blepharoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_63128bbe.jpg",
+        "created_at": "2026-05-04T19:31:18.294133"
+    },
+    {
+        "id": "152f0b05-4b29-4ffa-8a98-76665d17427c",
+        "user_id": "user_1",
+        "procedure": "Laser Skin Resurfacing",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_2f7a282b.jpg",
+        "created_at": "2026-04-23T13:32:02.624010"
+    },
+    {
+        "id": "df9ebe5b-baa5-46c0-8121-5bcc4f3ce4b3",
+        "user_id": "user_1",
+        "procedure": "Laser Skin Resurfacing",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_63bad46a.jpg",
+        "created_at": "2026-04-23T13:31:46.727291"
+    },
+    {
+        "id": "b7c28b2e-027f-4d30-9e80-180bd3acac5f",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_174d511f.jpg",
+        "created_at": "2026-04-23T13:31:02.405368"
+    },
+    {
+        "id": "79ed5293-beb5-412f-8ef8-9719b18f5a0a",
+        "user_id": "user_1",
+        "procedure": "Lip Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_d9163d8b.jpg",
+        "created_at": "2026-04-23T13:30:31.106628"
+    },
+    {
+        "id": "0c6daae6-0c25-4dc9-8676-647b0649163f",
+        "user_id": "user_1",
+        "procedure": "Laser Skin Resurfacing",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_ae2adbd0.jpg",
+        "created_at": "2026-04-23T13:29:56.460395"
+    },
+    {
+        "id": "32c84bc9-f802-439f-84d4-84f34848f020",
+        "user_id": "user_1",
+        "procedure": "Laser Skin Resurfacing",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_37c4ab0c.jpg",
+        "created_at": "2026-04-23T13:29:44.339577"
+    },
+    {
+        "id": "6707496b-d75e-48f7-8011-8185220c28a1",
+        "user_id": "user_1",
+        "procedure": "PRP Therapy",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_7ceee7bf.jpg",
+        "created_at": "2026-04-23T13:29:10.579167"
+    },
+    {
+        "id": "8f303170-e531-45eb-a0bd-5e21b3a5522d",
+        "user_id": "user_1",
+        "procedure": "PRP Therapy",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_684b4565.jpg",
+        "created_at": "2026-04-23T13:29:07.216289"
+    },
+    {
+        "id": "dd07e96c-d98c-4888-b655-38776ccb10f8",
+        "user_id": "user_1",
+        "procedure": "PRP Therapy",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_7dfa3cc8.jpg",
+        "created_at": "2026-04-23T13:28:56.660625"
+    },
+    {
+        "id": "dda2f0f6-88c1-40a0-9391-8f1391ba5dac",
+        "user_id": "user_1",
+        "procedure": "Botox",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_9c1e8b7c.jpg",
+        "created_at": "2026-04-23T13:28:29.808854"
+    },
+    {
+        "id": "e0b16db6-ba2b-42f4-a61e-5589389bf730",
+        "user_id": "user_1",
+        "procedure": "Botox",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_4cb3beda.jpg",
+        "created_at": "2026-04-23T13:28:16.361159"
+    },
+    {
+        "id": "c5de93bf-a4e7-4a30-b529-860b517c219f",
+        "user_id": "user_1",
+        "procedure": "Dermal Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_0d270318.jpg",
+        "created_at": "2026-04-23T13:27:24.213354"
+    },
+    {
+        "id": "a12f2770-78af-420a-8aed-8a9a9705c33c",
+        "user_id": "user_1",
+        "procedure": "Dermal Fillers",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_423fce8e.jpg",
+        "created_at": "2026-04-23T13:27:00.704070"
+    },
+    {
+        "id": "c4c1124e-d6a0-4e1f-9d3a-d142762eb68f",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_42e2db4f.jpg",
+        "created_at": "2026-04-23T13:26:38.782783"
+    },
+    {
+        "id": "33a6d7f7-a88f-4404-85de-fb7f6b80884d",
+        "user_id": "user_1",
+        "procedure": "Rhinoplasty",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_8a35eaf5.jpg",
+        "created_at": "2026-04-23T13:26:19.081120"
+    },
+    {
+        "id": "86a279c5-529b-43bb-a696-9d22d26cd9fd",
+        "user_id": "user_1",
+        "procedure": "Mid-Face Lift",
+        "original_image": "/static/original_placeholder.jpg",
+        "processed_image": "/static/results/sim_2405e7eb.jpg",
+        "created_at": "2026-04-23T13:25:08.930284"
+    }
+]
