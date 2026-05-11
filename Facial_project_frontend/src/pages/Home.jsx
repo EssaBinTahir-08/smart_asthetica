@@ -15,8 +15,6 @@ const SURGICAL = [
   "Chin Augmentation",
   "Jawline Surgery",
   "Buccal Fat Removal",
-  "Cheek Augmentation",
-  "Neck Lift (Structural)",
   "Scar Revision Surgery"
 ];
 
